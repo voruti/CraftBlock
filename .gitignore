@@ -44,6 +44,8 @@
 !config/hats.cfg
 !config/lockdown.cfg
 !config/voidislandcontrol.cfg
+!config/voidislandcontrolstructures
+!config/voidislandcontrolstructures/craftblock.nbt
 !config/harvestcraft.cfg
 !config/quark.cfg
 !config/morphtool.cfg
